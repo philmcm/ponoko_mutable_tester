@@ -12,3 +12,5 @@ Changes I made:
 - set line width to 0.01mm as required by Ponoko
 - changed RGB colors of lines as required by Ponoko to create cuts and fills
 - substituted a font in Adobe Illustrator for the power adapter, and converted to an outline
+- moved the parts from the original file into the Ponoko template
+- removed the "bird" layer and saved as .eps
