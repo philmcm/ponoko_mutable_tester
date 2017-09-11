@@ -1,9 +1,9 @@
 # ponoko_mutable_tester
 Sample .eps file for the  Mutable Instruments Module Tester, modified for construction in Ponoko.
-The file has passes the verification steps by Ponoko and builds as I expected to a very high quality.
+The file passed the verification steps by Ponoko and the delivered product was built as I expected
+to a very high quality.
 
 For manufacturing, I selected 3mm clear acrylic transparent on a P2 - 384.0 mm x 384.0 mm sheet.
-I will update this README and put photos in the repo once Ponoko deliver the enclosure - please check back.
 
 Please see the images/ directory for some images of the delivered product from this .eps file.
 
