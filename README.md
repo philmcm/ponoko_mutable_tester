@@ -7,9 +7,6 @@ For manufacturing, I selected 3mm clear acrylic transparent on a P2 - 384.0 mm x
 
 Please see the images/ directory for some images of the delivered product from this .eps file.
 
-I have not yet verified the PCB and connectors fit correctly but I expect no issues.  I will update this
-repo with more images and details once I have assembled the PCB.  Please check back!
-
 Note: This file is provided as-is, please verify accuracy and suitability for your needs before manufacturing.
 Use of this file is at own risk!
 
@@ -19,3 +16,7 @@ Changes I made:
 - substituted a font in Adobe Illustrator for the power adapter, and converted to an outline
 - moved the parts from the original file into the Ponoko template
 - removed the "bird" layer and saved as .eps
+
+To Do/Notes:
+- there are two holes on the back panel (from original .eps) which seem to serve no purpose.  Consider removing these holes.
+- consider adding two holes on the front panel to allow calibration adjustment without having to take the front panel off.
